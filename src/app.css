@@ -1,0 +1,28 @@
+.title {
+	margin-bottom: 5px;
+}
+
+.submit {
+	cursor: pointer;
+}
+
+.table {
+	border-collapse: collapse;
+	margin-top: -10px;
+	border: 3px solid black;
+}
+
+th {
+	border: 3px solid black;
+}
+
+td {
+	border: 1px solid black;
+}
+
+.not-found {
+	font-size: 1.2rem;
+	font-weight: bold;
+}
+
+

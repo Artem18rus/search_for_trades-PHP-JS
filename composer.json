@@ -1,0 +1,19 @@
+{
+    "name": "urart/app-php",
+    "autoload": {
+        "psr-4": {
+            "Urart\\AppPhp\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Ur.Art",
+            "email": "urart88@mail.ru"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "miladrahimi/phprouter": "5.*",
+        "phroute/phroute": "^2.2"
+    }
+}
